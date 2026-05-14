@@ -15,3 +15,7 @@ This project contains Linux, Bash scripting, log analysis, and DevOps practice e
 ## Goal
 
 Practice real-world DevOps and Cloud Engineer tasks in a simulated Linux environment.
+
+## Branch Workflow
+
+This repository also demonstrates Git branching and merge workflows used in DevOps teams.
