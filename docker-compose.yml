@@ -1,0 +1,13 @@
+services:
+
+   app:
+      image: acerbi1975/devops-challenge
+      container_name: devops-app
+      ports:
+         - "8080:5000"
+
+   nginx:
+      image: nginx:alpine
+      container_name: nginx-server
+      ports:
+         - "80:80"
